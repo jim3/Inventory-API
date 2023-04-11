@@ -1,1 +1,1 @@
-Early stages of a RESTful API Inventory app using Go. Mostly an excuse to experiment with a different language and framework. :)
+Experimenting with using Go, do not use this as a starter project (yet).
